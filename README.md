@@ -1,4 +1,4 @@
-# 🧸 Meet Jenny: Your Minecraft World Just Got a Whole Lot Less Lonely
+# 🧸 JennyMod: Your Minecraft World Just Got a Whole Lot Less Lonely
 
 Ever been deep in a dark cave, mining alone, thinking — *"Man, I wish I had someone to share this adventure with?"*
 
